@@ -1,2 +1,4 @@
 # thu1
-test
+main()
+printf("aa");
+
